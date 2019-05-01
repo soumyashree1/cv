@@ -1,0 +1,46 @@
+body {
+  background-color: #7fe7cc;
+}
+
+h1 {
+  background-color: #f17e7e;
+}
+
+h2 {
+  line-height: 2;
+  color: #f17e7e;
+}
+
+h3 {
+  font-weight: normal;
+}
+.middle-container{
+  margin: auto;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  line-height: 2;
+}
+
+#rcorners1 {
+  border-radius: 10px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 0.1px;
+}
+
+#rcorners2 {
+  border-radius: 10px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+#rcorners3 {
+  border-radius: 10px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 500px;
+  height: 80px;
+}
